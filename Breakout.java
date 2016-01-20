@@ -89,7 +89,7 @@ public class Breakout extends GraphicsProgram {
 		add(brick);
 	}
 	
-	//How the fuck it works?
+	//How the it works?
 	public void initor() {
 		int PAUSE = 10;
 		this.resize(WIDTH*2,HEIGHT);
